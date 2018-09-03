@@ -1,5 +1,10 @@
 public class HelloJava {
     public static void main(String[] args) {
-        System.out.println("Salut, Sorina!");
+        // abc
+        /*
+        def
+        ghi
+         */
+        System.out.println("Salut, " + args[0]);
     }
 }
